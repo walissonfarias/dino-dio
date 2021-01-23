@@ -1,5 +1,5 @@
-# Dio Dino Game 
-Dino game for Digital Innovation One Lesson, using only JS, HTML and CSS
+# Dino Dio 
+Dino dio é um jogo que foi recriado, semelhante ao que aparece no navegador do google chrome quando esta sem internet.
 
 ![screenshot](example.png?raw=true "screenshot")
 
